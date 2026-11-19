@@ -1,7 +1,7 @@
 # Hi there, I'm Abhinav Tripathi 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-tripathi-22236a2a6/)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-1d4ed8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-psi-liart-17.vercel.app)
+[![Featured App](https://img.shields.io/badge/Featured_App-Wellness-059669?style=for-the-badge&logo=vercel&logoColor=white)](https://wellness-psi-silk.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:at84004630@gmail.com)
 
 **Software Engineer & Systems Engineering Candidate**  
@@ -30,7 +30,7 @@ Forward Deployed & Systems Engineering enthusiast with hands-on experience build
 | :--- | :--- | :---: | :---: |
 | **Wellness**<br>*(Catalyst AI Hackathon Top 5.5%)* | Next.js 14, TypeScript, Tailwind, 22-test automated suite | [Live App](https://wellness-psi-silk.vercel.app/) | [Code](https://github.com/at84004630-del/Wellness) |
 | **MedTrace**<br>*(IBM Bob 2.0 Hackathon)* | Next.js, Docker, GitHub Actions CI/CD, Diagnostics | [Live App](https://medtrace-ai.vercel.app/) | [Code](https://github.com/at84004630-del/MedTrace) |
-| **MicroShield**<br>*(Solana Flight Delay Insurance)* | Solana, Rust, Anchor, Switchboard Oracle, USDC | [Live Live](https://micro-sheild-test.vercel.app/) | [Code](https://github.com/at84004630-del/MicroShield) |
+| **MicroShield**<br>*(Solana Flight Delay Insurance)* | Solana, Rust, Anchor, Switchboard Oracle, USDC | [Live App](https://micro-sheild-test.vercel.app/) | [Code](https://github.com/at84004630-del/MicroShield) |
 | **MediSense Edge**<br>*(Qualcomm Snapdragon AI Lab)* | Snapdragon X Elite, Hexagon NPU 45 TOPS, React 19 | [Architecture](https://github.com/at84004630-del/medisense-edge) | [Code](https://github.com/at84004630-del/medisense-edge) |
 | **StaffPulse**<br>*(Bharat Code Hackathon)* | Flutter, Dart, Firebase, Split-Shift Concurrency | [Live App](https://staffpulse-hr-2024.web.app/) | [Code](https://github.com/at84004630-del/STAFFPULSE) |
 
