@@ -1,6 +1,7 @@
 # Hi there, I'm Abhinav Tripathi 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-tripathi-22236a2a6/)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-1d4ed8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-1tvp.vercel.app/)
 [![Featured App](https://img.shields.io/badge/Featured_App-Wellness-059669?style=for-the-badge&logo=vercel&logoColor=white)](https://wellness-psi-silk.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:at84004630@gmail.com)
 
