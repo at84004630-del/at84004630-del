@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there, I'm Abhinav Tripathi 👋
 
-<!--
-**at84004630-del/at84004630-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-tripathi-22236a2a6/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-1d4ed8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-psi-liart-17.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:at84004630@gmail.com)
 
-Here are some ideas to get you started:
+**Software Engineer & Systems Engineering Candidate**  
+📍 Lucknow, India | 🎓 MCA (2026–2028), BCA (2023–2026) @ Amity University  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Forward Deployed & Systems Engineering enthusiast with hands-on experience building high-performance full-stack applications, containerized microservices, on-device edge AI systems, and Web3 escrow protocols in **TypeScript, Python, and Rust**.
+
+---
+
+### 🏆 Hackathon Honors & Recognitions
+
+- **Rank 78 / 1,400 Teams (Top 5.5%)** — *Catalyst AI Hackathon 2026*  
+  Evaluated on architectural resilience, multi-role clinical compliance, and low-latency API throughput for **[Wellness](https://github.com/at84004630-del/Wellness)**.
+- **National Shortlist** — *SBI Hackathon @ Global Fintech Fest 2026*  
+  Shortlisted by NPCI, FCC, and HackCulture for the Gemini-powered **SAATHI** autonomous banking grievance platform.
+- **Certificate of Completion & Excellence** — *IBM Bob 2.0 Hackathon*  
+  Awarded for building **[MedTrace](https://github.com/at84004630-del/MedTrace)** distributed incident diagnostics engine.
+- **Runner Up** — *Amiphoria Technical Hackathon 2026*  
+  Runner Up in inter-university technical software engineering hackathon at Amity University.
+
+---
+
+### 🚀 Featured Engineering Projects
+
+| Project | Tech Stack | Live Demo | Repository |
+| :--- | :--- | :---: | :---: |
+| **Wellness**<br>*(Catalyst AI Hackathon Top 5.5%)* | Next.js 14, TypeScript, Tailwind, 22-test automated suite | [Live App](https://wellness-psi-silk.vercel.app/) | [Code](https://github.com/at84004630-del/Wellness) |
+| **MedTrace**<br>*(IBM Bob 2.0 Hackathon)* | Next.js, Docker, GitHub Actions CI/CD, Diagnostics | [Live App](https://medtrace-ai.vercel.app/) | [Code](https://github.com/at84004630-del/MedTrace) |
+| **MicroShield**<br>*(Solana Flight Delay Insurance)* | Solana, Rust, Anchor, Switchboard Oracle, USDC | [Live Live](https://micro-sheild-test.vercel.app/) | [Code](https://github.com/at84004630-del/MicroShield) |
+| **MediSense Edge**<br>*(Qualcomm Snapdragon AI Lab)* | Snapdragon X Elite, Hexagon NPU 45 TOPS, React 19 | [Architecture](https://github.com/at84004630-del/medisense-edge) | [Code](https://github.com/at84004630-del/medisense-edge) |
+| **StaffPulse**<br>*(Bharat Code Hackathon)* | Flutter, Dart, Firebase, Split-Shift Concurrency | [Live App](https://staffpulse-hr-2024.web.app/) | [Code](https://github.com/at84004630-del/STAFFPULSE) |
+
+---
+
+### 💻 Technical Toolkit
+
+- **Languages:** TypeScript, JavaScript, Python (AsyncIO, OOP), Rust, Java (Core Java, Collections), Dart, SQL
+- **Frontend & Systems:** Next.js 14/15, React, Tailwind CSS, RESTful APIs, WebSockets, Server-Sent Events (SSE)
+- **Edge AI & Web3:** Qualcomm AI Hub (Hexagon NPU 45 TOPS), Solana Anchor Smart Contracts, Switchboard Oracles
+- **DevOps & Infrastructure:** Docker, Multi-stage Builds, GitHub Actions CI/CD, Vercel, Firebase, Linux CLI, Bash
+- **Software Reliability:** Automated Unit Testing (Jest, PyTest), Code Linting, Bug Triaging, Technical Documentation
+
+---
+
+### 📈 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=at84004630-del&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=at84004630-del&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+*Open to Software Engineer Intern and Forward Deployed Engineering opportunities.*
