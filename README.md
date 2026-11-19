@@ -8,16 +8,16 @@
 **Software Engineer & Systems Engineering Candidate**  
 📍 Lucknow, India | 🎓 MCA (2026–2028), BCA (2023–2026) @ Amity University  
 
-Forward Deployed & Systems Engineering enthusiast with hands-on experience building high-performance full-stack applications, containerized microservices, on-device edge AI systems, and Web3 escrow protocols in **TypeScript, Python, and Rust**.
+Forward Deployed & Systems Engineering enthusiast with hands-on experience building high-performance full-stack applications, containerized microservices, on-device edge AI systems, and Web3 escrow protocols in **Python, TypeScript, and Rust**.
 
 ---
 
 ### 🏆 Hackathon Honors & Recognitions
 
+- **National Shortlist** — *SBI Hackathon @ Global Fintech Fest 2026*  
+  Shortlisted by NPCI, FCC, and HackCulture for **[SAATHI](https://github.com/at84004630-del/SAATHI)**, an autonomous banking grievance microservice powered by Google Gemini 1.5 Flash.
 - **Rank 78 / 1,400 Teams (Top 5.5%)** — *Catalyst AI Hackathon 2026*  
   Evaluated on architectural resilience, multi-role clinical compliance, and low-latency API throughput for **[Wellness](https://github.com/at84004630-del/Wellness)**.
-- **National Shortlist** — *SBI Hackathon @ Global Fintech Fest 2026*  
-  Shortlisted by NPCI, FCC, and HackCulture for the Gemini-powered **SAATHI** autonomous banking grievance platform.
 - **Certificate of Completion & Excellence** — *IBM Bob 2.0 Hackathon*  
   Awarded for building **[MedTrace](https://github.com/at84004630-del/MedTrace)** distributed incident diagnostics engine.
 - **Runner Up** — *Amiphoria Technical Hackathon 2026*  
@@ -29,6 +29,7 @@ Forward Deployed & Systems Engineering enthusiast with hands-on experience build
 
 | Project | Tech Stack | Live Demo | Repository |
 | :--- | :--- | :---: | :---: |
+| **SAATHI**<br>*(SBI Hackathon @ GFF 2026)* | Google Gemini 1.5 Flash, FastAPI, LangGraph, SSE, Docker | [Architecture](https://github.com/at84004630-del/SAATHI) | [Code](https://github.com/at84004630-del/SAATHI) |
 | **Wellness**<br>*(Catalyst AI Hackathon Top 5.5%)* | Next.js 14, TypeScript, Tailwind, 22-test automated suite | [Live App](https://wellness-psi-silk.vercel.app/) | [Code](https://github.com/at84004630-del/Wellness) |
 | **MedTrace**<br>*(IBM Bob 2.0 Hackathon)* | Next.js, Docker, GitHub Actions CI/CD, Diagnostics | [Live App](https://medtrace-ai.vercel.app/) | [Code](https://github.com/at84004630-del/MedTrace) |
 | **MicroShield**<br>*(Solana Flight Delay Insurance)* | Solana, Rust, Anchor, Switchboard Oracle, USDC | [Live App](https://micro-sheild-test.vercel.app/) | [Code](https://github.com/at84004630-del/MicroShield) |
@@ -39,11 +40,11 @@ Forward Deployed & Systems Engineering enthusiast with hands-on experience build
 
 ### 💻 Technical Toolkit
 
-- **Languages:** TypeScript, JavaScript, Python (AsyncIO, OOP), Rust, Java (Core Java, Collections), Dart, SQL
-- **Frontend & Systems:** Next.js 14/15, React, Tailwind CSS, RESTful APIs, WebSockets, Server-Sent Events (SSE)
+- **Languages:** Python (FastAPI, AsyncIO, OOP), TypeScript, JavaScript, Rust, Java (Core Java, Collections), Dart, SQL
+- **AI & Systems:** Google Gemini 1.5 Flash, LangGraph Multi-Agent Workflows, Server-Sent Events (SSE), WebSockets
 - **Edge AI & Web3:** Qualcomm AI Hub (Hexagon NPU 45 TOPS), Solana Anchor Smart Contracts, Switchboard Oracles
 - **DevOps & Infrastructure:** Docker, Multi-stage Builds, GitHub Actions CI/CD, Vercel, Firebase, Linux CLI, Bash
-- **Software Reliability:** Automated Unit Testing (Jest, PyTest), Code Linting, Bug Triaging, Technical Documentation
+- **Software Reliability:** Automated Unit Testing (PyTest, Jest), Code Linting, Bug Triaging, Technical Documentation
 
 ---
 
